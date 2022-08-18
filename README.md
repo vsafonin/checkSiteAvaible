@@ -3,6 +3,8 @@
 Формат файла:
 | URL |TITLE  |
 |--|--|
+| | |
+
 Например:
 |http://www.google.ru/|Google  |
 |--|--|
