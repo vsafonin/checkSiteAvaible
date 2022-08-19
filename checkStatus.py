@@ -96,3 +96,5 @@ if not result:
     print("Good day! Nothing is bad")
 for errorSite in result:
     print("Site: ", errorSite.getUrl(), "Status: ", errorSite.getStatus())
+
+input("Press enter to exit...")
